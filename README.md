@@ -1,6 +1,6 @@
 # GeneradorCodigoQr
 Generador de codigos QR utilizando API de https://goqr.me/
-Realizado con el fin de estudiar el usi de APIS
+Realizado con el fin de estudiar el uso de APIS
 Para ver el codigo recuerda ir a la rama master
 
 Posible trabajo futuro:
