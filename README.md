@@ -14,3 +14,7 @@ Imagenes:
 ![imagen 2](https://github.com/Hachigud/GeneradorCodigoQr/blob/main/Imagenes/2.png)
 ![imagen 3](https://github.com/Hachigud/GeneradorCodigoQr/blob/main/Imagenes/3.png)
 ![video](https://github.com/Hachigud/GeneradorCodigoQr/blob/main/Imagenes/2023-03-13%2022-43-57.mp4)
+
+
+https://user-images.githubusercontent.com/101149365/224872093-ddade1a3-aa2b-4ead-b4da-8c45c8916883.mp4
+
