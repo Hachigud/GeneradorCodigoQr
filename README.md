@@ -10,4 +10,4 @@ Posible trabajo futuro:
 3.- Ajustar estilos para dejarlo mas bonito.
 
 Imagenes: 
-![imagen 1](url completa de la imagen)
+![imagen 1](https://github.com/Hachigud/GeneradorCodigoQr/blob/main/Imagenes/1.png)
