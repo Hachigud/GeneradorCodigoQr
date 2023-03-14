@@ -1,0 +1,148 @@
+
+
+body{
+    background-image: linear-gradient( 68.4deg,  rgb(27, 247, 195) -0.4%, #e3f9ff 100.2% );
+}
+
+
+#Titulo{
+margin: 0 auto; 
+background: url(Portafolio.png) no-repeat;
+background-size: cover;
+background-position: top;
+background-blend-mode: multiply;
+width: 200px;
+height: 200px;
+border: 5px solid #86e70621;
+animation: morph 8s ease-in-out infinite;
+
+}
+
+@keyframes morph{
+    0%{
+        border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+        border: 5px solid #ec07ce21;
+    }
+    50%{
+        border-radius: 30% 60% 70% 40% / 50% 60% 30% 60%;
+        border: 5px solid #1506e721;
+       
+    }
+    100%{
+        border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+        border: 5px solid #e7590621;
+    }
+
+
+}
+
+
+#cuerpo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.container-md{
+    padding: 25px 35px;
+    margin-top: 40px;
+    background: #fff;
+    border-radius: 10px;  
+    align-items: center;
+    justify-content: center;
+    animation: rgb 5s ease-in-out infinite;
+}
+
+@keyframes rgb{
+    0%{
+        
+        border: 3px solid #a7d30921;
+    }
+    50%{
+        
+        border: 3px solid #00000086;
+       
+    }
+    100%{
+        
+        border: 3px solid #ff000021;
+    }
+
+
+}
+
+
+#botones{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-md input{
+   
+    border: 1px solid #494eea;
+    outline: 0;
+    padding: 10px;
+    margin: 10px 0 20px;
+    border-radius: 5px;
+    
+}
+
+
+
+#imgBox{
+  
+    border-radius:  5px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 1.5s;
+}
+
+#imgBox img{
+    width: 100%;
+    
+}
+
+#imgBox.show-img{
+    margin: 10px auto;
+    max-height: 300px;
+    border: 0.5px solid #d1d1d1;
+}
+
+
+#btnDescargar{
+    display: none;
+}
+
+#btnDescargar.show-btn{
+    display: block;
+}
+
+
+.error{
+    animation: shake 0.1s linear 10;
+}
+
+@keyframes shake {
+    0%{
+        border: 1px solid red;
+        transform: translatex(0);
+    }
+    20%{
+        transform: translatex(-2px);
+    }
+    50%{
+        border: 1px solid red;
+        transform: translatex(0);
+    }
+    75%{
+        transform: translatex(2px);
+    }
+    
+    100%{
+        border: 1px solid red;
+        transform: translatex(0);
+    }
+}
+
