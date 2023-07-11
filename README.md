@@ -10,6 +10,7 @@ Posible trabajo futuro:
 3.- Ajustar estilos para dejarlo mas bonito.
 
 Imagenes: 
+
 ![imagen 1](https://github.com/Hachigud/GeneradorCodigoQr/blob/main/Imagenes/1.png)
 ![imagen 2](https://github.com/Hachigud/GeneradorCodigoQr/blob/main/Imagenes/2.png)
 ![imagen 3](https://github.com/Hachigud/GeneradorCodigoQr/blob/main/Imagenes/3.png)
